@@ -9,10 +9,10 @@ Traffic simulator written in Win SDK for a school project, spring 2010.
 ## Project
 
 * Date: Spring 2010
-* Course: Programming with MS Windows, Bergen University College, TOD112
+* Course: Programming with MS Windows, [Bergen University College](http://www.hib.no/english/index.html), [TOD112](http://student.hib.no/fagplaner/ai/emne.asp?kode=TOD112)
 * Language: Win SDK (C++)
 * IDE: Visual Studio
-* Assignment: Assignment 3, TOD112, HiB, 2010
+* Assignment: [Assignment 3, TOD112, HiB, 2010](https://github.com/Skarbo/IntersectionSimulator/blob/master/HiB_TOD112_2010_assignment_3.pdf)
 
 ## Assignment
 
@@ -113,6 +113,7 @@ void Draw::repeatBitmap(HDC hdc, Bitmap bitmap, int x, int y, int width, int hei
 
 }
 ```
+*Description taken from an old blog post*
 
  [1]: http://i.imgur.com/xazVqjj.png
  [2]: http://i.imgur.com/9f6ieNd.png
