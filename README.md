@@ -17,7 +17,7 @@ Traffic simulator written in Win SDK for a school project, spring 2010.
 ## Assignment
 
 Cars shall arrive from west by pressing left mouse button down and cars from north by pressing the right button. The cars must follow the traffic rules, that is stop on red light at the crossing, and drive when the light is green. Use a timer for updating the position of the cars.
-Cars from west arrive with a probability pv per second, and cars from north arrive with probability pn. You now have a traffic simulator and can study how queues build up in the traffic crossing.
+Cars from west arrive with a probability *pv* per second, and cars from north arrive with probability *pn*. You now have a traffic simulator and can study how queues build up in the traffic crossing.
 
 ## Video
 
