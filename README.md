@@ -30,7 +30,8 @@ The program is a simulation of a traffic intersection. When the simulations star
 * One for every 10ms which moves the positions of the cars in the simulation.
 * Another for every 100ms which adds a car according to the probability for each direction.
 * The last for every 2000ms which changes the intersection state.
-* The cars are drawn rectangles. The number indicates the speed of each car.
+
+The cars are drawn rectangles. The number indicates the speed of each car.
 
 ## Keys
 
