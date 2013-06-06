@@ -34,16 +34,16 @@ The program is a simulation of a traffic intersection. When the simulations star
 
 ## Keys
 
-Key up: Start
-Key down: Stop
-Numpad 8: Increase probability north
-Numpad 9: Decrease probability north
-Numpad 6: Increase probability east
-Numpad 3: Decrease probability east
-Numpad 2: Increase probability south
-Numpad 1: Decrease probability south
-Numpad 4: Increase probability west
-Numpad 7: Decrease probability west
+	Key up: Start
+	Key down: Stop
+	Numpad 8: Increase probability north
+	Numpad 9: Decrease probability north
+	Numpad 6: Increase probability east
+	Numpad 3: Decrease probability east
+	Numpad 2: Increase probability south
+	Numpad 1: Decrease probability south
+	Numpad 4: Increase probability west
+	Numpad 7: Decrease probability west
 
 ## Source code worth mentioning
 
