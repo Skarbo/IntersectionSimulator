@@ -51,7 +51,7 @@ The program is a simulation of a traffic intersection. When the simulations star
 
 ![Repeat bitmap][2]
 
-Repeats a bitmap over a given area.
+Repeats a bitmap over a given area ([source](https://github.com/Skarbo/IntersectionSimulator/blob/master/Exercise3/Draw.cpp#L67-L124)).
 
 ```c++
 void Draw::repeatBitmap(HDC hdc, Bitmap bitmap, int x, int y, int width, int height) {
@@ -113,6 +113,7 @@ void Draw::repeatBitmap(HDC hdc, Bitmap bitmap, int x, int y, int width, int hei
 
 }
 ```
+
 *Description taken from an old blog post*
 
  [1]: http://i.imgur.com/xazVqjj.png
